@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **JAVA, PYTHON, HTML, CSS, JAVASCRIPT**
 
-💬 Ask me about **Overleaf**
+💬 Ask me about **JAVA, HTML, CSS, PYTHON**
 
 ⚡ Fun fact **Always Happy**
 
@@ -31,7 +31,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,geany" />
     <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql" /><br>
 </div>
 
