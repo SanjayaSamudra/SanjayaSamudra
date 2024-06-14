@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently reading a degree at **University Of Jayawardenapura**
+ 🔭 I’m currently reading for a degree at **University Of Jayawardenapura**
  
  🌱 I’m currently learning **JAVA, PYTHON, HTML, CSS, JAVASCRIPT**
 
@@ -31,8 +31,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,geany" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,pycharm,visualstudio" />
+    <img src="https://github.com/SanjayaSamudra/SanjayaSamudra/blob/main/geany-icon.jpg" alt="Geany" width="48" height="48" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,mysql" /><br>
 </div>
 
 <br/>
@@ -40,7 +41,7 @@
 
 <hr/>
 
-<--<h2 align="center">⚡ Stats ⚡</h2>
+<!--<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-SanjayaSamudra.vercel.app/?user=SanjayaSamudra&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
