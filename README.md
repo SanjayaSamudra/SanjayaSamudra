@@ -27,6 +27,22 @@
 </div>
 
  <hr/>
+
+ <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjayaSamudra&theme=algolia" alt="SanjayaSamudra" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanjayaSamudra&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SanjayaSamudra" height="192px"/>
+</p>
+
+<!--<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SanjayaSamudra&layout=compact&theme=algolia" alt="SanjayaSamudra" />
+  </a>
+</p>-->
+
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
