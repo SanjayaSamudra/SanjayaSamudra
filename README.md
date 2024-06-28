@@ -12,9 +12,9 @@
  
  🔭 I’m currently reading for a degree at **University Of Jayawardenapura**
  
- 🌱 I’m currently learning **JAVA, PYTHON, HTML, CSS, JAVASCRIPT**
+ 🌱 I’m currently learning **JAVA, PYTHON, HTML, CSS, JAVASCRIPT, C++**
 
-💬 Ask me about **JAVA, HTML, CSS, PYTHON**
+💬 Ask me about **JAVA, HTML, CSS, PYTHON, JAVASCRIPT**
 
 ⚡ Fun fact **Always Happy**
 
@@ -50,6 +50,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,github,pycharm,visualstudio" />
     <img src="https://github.com/SanjayaSamudra/SanjayaSamudra/blob/main/netbeans.png" alt="NetBeans" width="68" height="50" />
     <img src="https://github.com/SanjayaSamudra/SanjayaSamudra/blob/main/geany-icon.jpg" alt="Geany" width="48" height="48" /><br>
+    <img src="https://github.com/SanjayaSamudra/SanjayaSamudra/blob/main/C++ icon.png" alt="C++" width="48" height="48" />
     <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,mysql,bootstrap" /><br>
 </div>
 
