@@ -74,8 +74,8 @@
 
 <br/>
 
-<!--<div align="center">
+<div align="center">
 <a href='' target='_blank'><img height='64' style='border:0px;height:64px;' src='geany-icon.jpg' border='0' alt='Say Hello' />Say Hello</a>
-</div>-->
+</div>
 
 <br/>
