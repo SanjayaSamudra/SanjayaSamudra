@@ -57,6 +57,10 @@
 <br/>
 <hr/>
 
+<<<<<<< HEAD
+=======
+<hr/>
+>>>>>>> recovery_branch
 
 <!--<h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -73,8 +77,14 @@
 
 <br/>
 
+<<<<<<< HEAD
 <!--<div align="center">
 <a href='' target='_blank'><img height='64' style='border:0px;height:64px;' src='geany-icon.jpg' border='0' alt='Say Hello' />Say Hello</a>
 </div>-->
+=======
+<div align="center">
+<a href='' target='_blank'><img height='64' style='border:0px;height:64px;' src='geany-icon.jpg' border='0' alt='Say Hello' />Say Hello</a>
+</div>
+>>>>>>> recovery_branch
 
 <br/>

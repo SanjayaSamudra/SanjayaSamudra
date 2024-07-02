@@ -1,0 +1,32 @@
+name: Update SVG
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily
+  push:
+    branches:
+      - main
+
+jobs:
+  update-svg:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Install GitPython
+        run: |
+          python -m pip install --upgrade pip
+          pip install gitpython
+      - name: Update SVG
+        run: |
+          python update_svg.py
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add wave_pattern.svg
+          git commit -m 'Update wave pattern SVG'
+          git push
