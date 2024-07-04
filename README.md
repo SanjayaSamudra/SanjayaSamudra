@@ -8,8 +8,9 @@
 
 <br/>
 
+<span style="background-color: yellow;">
 <div align="center">
- <span style="background-color: yellow;">
+
  🔭 I’m currently reading for a degree at **University Of Jayawardenapura**
  
  🌱 I’m currently learning **JAVA, PYTHON, HTML, CSS, JAVASCRIPT, C++**
