@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
- 
+ <span style="background-color: yellow;">
  🔭 I’m currently reading for a degree at **University Of Jayawardenapura**
  
  🌱 I’m currently learning **JAVA, PYTHON, HTML, CSS, JAVASCRIPT, C++**
@@ -17,7 +17,7 @@
 💬 Ask me about **JAVA, HTML, CSS, PYTHON, JAVASCRIPT**
 
 ⚡ Fun fact **Always Happy**
-
+</span>
  </div>
  
 <div align="center"> 
@@ -30,6 +30,12 @@
 
  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjayaSamudra&theme=algolia" alt="SanjayaSamudra" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="SanjayaSamudra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SanjayaSamudra&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+  </a>
 </p>
 
 <p align="center">
