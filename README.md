@@ -21,9 +21,8 @@
 </span>
  </div>
  
-<div style="display: flex; align-items: center;" align="center"> 
+<div style="text-decoration: none;" align="center"> 
   <a href="mailto:sanjayasamudraelpitiya@gmail.com">
-    <!--<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />-->
       <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.hackerrank.com/SanjayaSamudra" target="_blank">
@@ -58,9 +57,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,pycharm,visualstudio,bootstrap,photoshop" />
-    <img src="https://github.com/SanjayaSamudra/SanjayaSamudra/blob/main/netbeans.png" alt="NetBeans" width="68" height="48" />
-    <img src="https://github.com/SanjayaSamudra/SanjayaSamudra/blob/main/geany-icon.jpg" alt="Geany" width="48" height="48" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,pycharm,visualstudio,bootstrap,photoshop" /> <br>
+    <!--<img src="https://github.com/SanjayaSamudra/SanjayaSamudra/blob/main/netbeans.png" alt="NetBeans" width="68" height="48" />
+    <img src="https://github.com/SanjayaSamudra/SanjayaSamudra/blob/main/geany-icon.jpg" alt="Geany" width="48" height="48" /><br>-->
     <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,mysql,cpp,latex" /><br>
 </div>
 
