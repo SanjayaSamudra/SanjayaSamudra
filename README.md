@@ -58,10 +58,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,pycharm,visualstudio,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,pycharm,visualstudio,bootstrap,photoshop" />
     <img src="https://github.com/SanjayaSamudra/SanjayaSamudra/blob/main/netbeans.png" alt="NetBeans" width="68" height="48" />
     <img src="https://github.com/SanjayaSamudra/SanjayaSamudra/blob/main/geany-icon.jpg" alt="Geany" width="48" height="48" /><br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,mysql,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,mysql,cpp,latex" /><br>
 </div>
 
 <br/>
