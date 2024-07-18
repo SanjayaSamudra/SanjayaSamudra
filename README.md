@@ -24,7 +24,7 @@
 <div style="text-decoration: none;" align="center"> 
   <a href="mailto:sanjayasamudraelpitiya@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  </a> &nbsp;
   <a href="https://www.hackerrank.com/SanjayaSamudra" target="_blank">
     <img src="https://cdn.simpleicons.org/hackerrank/2EC866 width="48px" height="48px" border-radius="2px" " />
   </a>
