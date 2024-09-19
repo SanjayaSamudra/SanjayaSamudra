@@ -24,33 +24,11 @@
 <div style="text-decoration: none;" align="center"> 
   <a href="mailto:sanjayasamudraelpitiya@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" />
-  </a> &nbsp;
+  </a>
   <a href="https://www.hackerrank.com/SanjayaSamudra" target="_blank">
     <img src="https://cdn.simpleicons.org/hackerrank/2EC866 width="48px" height="48px" border-radius="2px" " />
   </a>
 </div>
-
- <hr/>
-
- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjayaSamudra&theme=algolia" alt="SanjayaSamudra" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="SanjayaSamudra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SanjayaSamudra&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanjayaSamudra&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SanjayaSamudra" height="192px"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SanjayaSamudra&layout=compact&theme=algolia" alt="SanjayaSamudra" />
-  </a>
-</p>
 
 <hr/>
  
