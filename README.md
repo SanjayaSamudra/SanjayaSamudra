@@ -39,6 +39,8 @@
 <br/>
 <hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjayaSamudra&theme=algolia" alt="SanjayaSamudra" />
 </p>
@@ -47,18 +49,10 @@
     <img alt="SanjayaSamudra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SanjayaSamudra&show_icons=true&count_private=true&theme=algolia" height="192px"/>
   </a>
 </p>
-<!--<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-SanjayaSamudra.vercel.app/?user=SanjayaSamudra&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-SanjayaSamudra.vercel.app/api?username=SanjayaSamudra&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-SanjayaSamudra.vercel.app/api/top-langs/?username=SanjayaSamudra&theme=HTML&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
-<br/><br/>
-
-<hr/>-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanjayaSamudra&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SanjayaSamudra" height="192px"/>
+</p>
 
 <br/>
 
