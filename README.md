@@ -17,7 +17,7 @@
 
 💬 Ask me about **JAVA, HTML, CSS, PYTHON, JAVASCRIPT**
 
-⚡ Fun fact **Always Happy**
+⚡ Fun fact **Watching Movies**
 </span>
  </div>
  
