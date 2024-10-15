@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **JAVA, PYTHON, HTML, CSS, JAVASCRIPT, C++**
 
-💬 Ask me about **JAVA, HTML, CSS, PYTHON, JAVASCRIPT**
+💬 Ask me about **JAVA, HTML, CSS, PYTHON, JAVASCRIPT, SQL**
 
 ⚡ Fun fact **Watching Movies**
 </span>
