@@ -17,7 +17,7 @@
 
 💬 Ask me about **JAVA, HTML, CSS, PYTHON, JAVASCRIPT, SQL**
 
-⚡ Fun fact **Watching Movies**
+⚡ Fun fact **The longest Git commit message ever recorded is 72,935 characters long! That’s a lot of detail for a single change.**
 </span>
  </div>
  
