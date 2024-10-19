@@ -17,7 +17,7 @@
 
 💬 Ask me about **JAVA, HTML, CSS, PYTHON, JAVASCRIPT, SQL**
 
-⚡ Fun fact **Code is like humor. When you have to explain it, it’s bad.**
+⚡ Fun fact **There’s no place like home.**
 </span>
  </div>
  
