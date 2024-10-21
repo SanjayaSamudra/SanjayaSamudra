@@ -17,7 +17,7 @@
 
 💬 Ask me about **JAVA, HTML, CSS, PYTHON, JAVASCRIPT, SQL**
 
-⚡ Fun fact **There’s no place like home.**
+⚡ Moral Fact **We cannot solve our problems with the same thinking we used when we created them.**
 </span>
  </div>
  
