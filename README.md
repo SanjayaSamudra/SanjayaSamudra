@@ -13,7 +13,7 @@
 
  🔭 I’m currently reading for a degree at **University Of Jayawardenapura**
  
- 🌱 I’m currently learning **JAVA, PYTHON, HTML, CSS, JAVASCRIPT, C++**
+ 🌱 I’m currently learning **JAVA, HTML, CSS, JAVASCRIPT**
 
 💬 Ask me about **JAVA, HTML, CSS, PYTHON, JAVASCRIPT, SQL**
 
