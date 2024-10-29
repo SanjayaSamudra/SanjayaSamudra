@@ -17,7 +17,7 @@
 
 💬 Ask me about **JAVA, HTML, CSS, JAVASCRIPT, SQL, C++**
 
-⚡ Moral Fact **Let's do it.**
+⚡ Moral Fact **Keep it up, no matter what.**
 </span>
  </div>
  
